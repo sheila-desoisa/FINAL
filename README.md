@@ -1,4 +1,4 @@
-# FINAL
+# FINAL De Soisa - Elihaltt - Karner - Moyano
 En grande lo que hicimos hasta, ahora a ver qué les parece, nosotros expondríamos este jueves y serán como mucho 15 minutos, porque seremos 3 o 4 dependiendo personas a 3 / 4 minutos cada uno; si puede comunicarse el de la Antártida (Moyano).
 1.	Iniciamos un montaje de una rapsberrypi  (Karner)
 2.	Luego sobre esa instalé un contenedor Docker, sobre el mismo el sistema operativo Ubuntu y sobre él el servicio de html, y le dí la persistencia al mismo. (De Soisa)
