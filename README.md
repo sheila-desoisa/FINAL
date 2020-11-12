@@ -1,4 +1,5 @@
-# 1.	Iniciamos un montaje de una rapsberrypi  (Karner)
+# INTEGRANTES DEL GRUPO: De Soisa - Elihaltt - Karner - Moyano
+# 1. Iniciamos un montaje de una rapsberrypi  (Karner)
 # 2.	Luego sobre esa instalamos un contenedor Docker, sobre el mismo el sistema operativo Ubuntu y sobre él el servicio de html, y le dí la persistencia al mismo. (De Soisa)
 # 3.	Luego para que cada uno de los integrantes del grupo pudiera acceder se habilitó el puerto ssh 6583  con acceso desde cualquier lugar a través del comando:
 # teckarner.doomdns.org -l unsam  (password 12345678)  (Elihallt)
